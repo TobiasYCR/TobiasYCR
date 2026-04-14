@@ -9,13 +9,8 @@ Soy **Técnico en Programación** y un apasionado por el aprendizaje continuo de
 
 ### 🛠 Mi Stack Tecnológico
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
+  <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" />
+  <img src="![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)" />
+  <img src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
 </p>
-
----
-
-### 📈 Mis Estadísticas
-![Estadísticas de GitHub de Tobias](https://vercel.app)
