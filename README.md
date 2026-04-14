@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Tobias 👋
 
-<!--
-**TobiasYCR/TobiasYCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Técnico en Programación** y un apasionado por el aprendizaje continuo de nuevos lenguajes y tecnologías. Me enfoco en crear soluciones eficientes y seguir creciendo profesionalmente.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔭 Actualmente trabajando con: **Javascript, Java, PHP y MySQL**.
+- 🌱 Siempre aprendiendo nuevos lenguajes para expandir mi stack.
+- 💬 Pregúntame sobre desarrollo backend o bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Mi Stack Tecnológico
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📈 Mis Estadísticas
+![Estadísticas de GitHub de Tobias](https://vercel.app)
