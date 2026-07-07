@@ -5,7 +5,7 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
 ## 🚀 Sobre mí
 
 - Técnico en Programación.
-- Actualmente trabajando con **React, Node.js, Nodemon, Git y NPM**.
+- Actualmente trabajando con **React, Node.js, Git y NPM**.
 - Interesado en desarrollo backend, bases de datos y aplicaciones web.
 - Enfocado en escribir código claro, funcional y mantenible.
 - Siempre abierto a aprender nuevas herramientas, lenguajes y buenas prácticas.
@@ -36,7 +36,6 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
   <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/nodemon-%2376D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/rest%20api-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -45,6 +44,7 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
 
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
