@@ -2,8 +2,6 @@
 
 Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me apasiona crear soluciones eficientes, aprender nuevas tecnologías y mejorar continuamente mis habilidades como programador.
 
-Actualmente trabajo con **JavaScript, Java, PHP y MySQL**, y estoy ampliando mi stack aprendiendo nuevas tecnologías para fortalecer mi perfil como desarrollador web.
-
 ## 🚀 Sobre mí
 
 - Técnico en Programación.
