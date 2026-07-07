@@ -52,11 +52,3 @@ Actualmente trabajo con **JavaScript, Java, PHP y MySQL**, y estoy ampliando mi 
 ## 🎯 Objetivo profesional
 
 Seguir creciendo como desarrollador, participar en proyectos desafiantes y aportar soluciones útiles, escalables y bien estructuradas.
-
-## 🤝 Contacto
-
-<p align="left">
-  <a href="https://www.instagram.com/tobiasycr" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
