@@ -1,14 +1,16 @@
 # ¡Hola! Soy Tobias 👋
 
-Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me apasiona crear soluciones eficientes, aprender nuevas tecnologías y mejorar continuamente mis habilidades como programador.
+Soy **Técnico en Programación** y desarrollador en formación constante. Me gusta construir soluciones claras, funcionales y útiles, combinando lógica, creatividad y buenas prácticas.
+
+Actualmente estoy trabajando con tecnologías como **React, Node.js, Git y NPM**, mientras sigo ampliando mis conocimientos en backend, bases de datos y desarrollo web moderno.
 
 ## 🚀 Sobre mí
 
 - Técnico en Programación.
-- Actualmente trabajando con **React, Node.js, Git y NPM**.
-- Interesado en desarrollo backend, bases de datos y aplicaciones web.
-- Enfocado en escribir código claro, funcional y mantenible.
-- Siempre abierto a aprender nuevas herramientas, lenguajes y buenas prácticas.
+- Me interesa crear aplicaciones web bien estructuradas y mantenibles.
+- Disfruto aprender nuevas tecnologías y mejorar la forma en que escribo código.
+- Estoy enfocado en fortalecer mis habilidades en backend, APIs y bases de datos.
+- Busco seguir creciendo a través de proyectos reales, desafíos técnicos y buenas prácticas de desarrollo.
 
 ## 🛠 Stack Tecnológico
 
@@ -38,6 +40,8 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
   <img src="https://img.shields.io/badge/nodemon-%2376D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/rest%20api-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Actualmente aprendiendo
@@ -47,7 +51,6 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
   <img src="https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -62,4 +65,4 @@ Soy **Técnico en Programación** y desarrollador en constante crecimiento. Me a
 
 ## 🎯 Objetivo profesional
 
-Seguir creciendo como desarrollador, participar en proyectos desafiantes y aportar soluciones útiles, escalables y bien estructuradas.
+Mi objetivo es seguir creciendo como desarrollador, sumar experiencia en proyectos reales y aportar soluciones que sean útiles, escalables y bien pensadas.
