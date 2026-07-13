@@ -39,6 +39,9 @@ Actualmente trabajo con tecnologías como **React, Node.js, Git y NPM**, mientra
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
 </p>
 
 ### Backend y APIs
