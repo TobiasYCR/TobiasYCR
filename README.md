@@ -39,9 +39,6 @@ Actualmente trabajo con tecnologías como **React, Node.js, Git y NPM**, mientra
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Backend y APIs
@@ -77,9 +74,10 @@ Actualmente trabajo con tecnologías como **React, Node.js, Git y NPM**, mientra
 ## 📚 Actualmente aprendiendo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
