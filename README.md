@@ -5,7 +5,7 @@
 ### Técnico en Programación | Desarrollador en crecimiento
 
 Me gusta crear soluciones claras, funcionales y bien estructuradas.  
-Actualmente trabajo con tecnologías como **React, Node.js, Git y NPM**, mientras sigo profundizando en backend, bases de datos y desarrollo web moderno.
+Actualmente trabajo con tecnologías como **React, React Native, Node.js y bases de datos relacionales**, mientras sigo profundizando en backend, APIs y desarrollo web moderno.
 
 </div>
 
