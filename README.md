@@ -33,6 +33,7 @@ Actualmente trabajo con tecnologías como **React, React Native, Node.js y bases
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### Frontend
@@ -77,7 +78,6 @@ Actualmente trabajo con tecnologías como **React, React Native, Node.js y bases
 ## 📚 Actualmente aprendiendo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
